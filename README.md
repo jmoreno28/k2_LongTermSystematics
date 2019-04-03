@@ -1,5 +1,12 @@
 # K2 Utilities
 
+Added functionality---
+1. Create template lightcurves of instrument systematics (similar to CBV vectors, but CCD, channel, module, magnitude specific) 
+2. Metric to measure contamination in a real lightcurve using the CCD, magnitude specific template
+--------------------------------------------------------------------
+
+Forked Repo-
+
 A small library of classes and functions for working with K2 data more efficiently.
 A few ipython notebook tutorials have been included to get your started.
 
